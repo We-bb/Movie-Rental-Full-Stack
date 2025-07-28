@@ -10,13 +10,13 @@ export default function Navbar() {
         <div className="space-x-10 text-lg font-semibold">
           <Link
             href="/"
-            className="hover:text-blue-400 transition-colors duration-200"
+            className="text-white hover:text-blue-400 transition-colors duration-200"
           >
             Home
           </Link>
           <Link
             href="/movie"
-            className="hover:text-blue-400 transition-colors duration-200"
+            className="text-white hover:text-blue-400 transition-colors duration-200"
           >
             Movies
           </Link>
